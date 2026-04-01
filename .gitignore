@@ -1,0 +1,23 @@
+# Environments
+venv/
+env/
+ENV/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDEs
+.vscode/
+.idea/
+.DS_Store
+
+# Secrets and Databases
+gcp-key*
+db.json
+local_db.json
+
+# Streamlit
+.streamlit/
