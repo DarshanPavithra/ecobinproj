@@ -33,7 +33,7 @@ The core intelligence of ECO BIN is powered by the Google Cloud Vision API. When
 ![Proof Image 2](proof/2.jpg)
 
 ### Demo Video
-Upload your demo video to Google Drive and paste the shareable link here (max 3 minutes). [Watch Demo](https://drive.google.com/file/d/1L7z5j44TNeGtmyNMKQ6x2dLsM9duKxAN/view?usp=sharing)
+Upload your demo video to Google Drive and paste the shareable link here (max 3 minutes). [Watch Demo](https://drive.google.com/file/d/1W9i-3Is1dyFax5Xf9kOIbd0MW3TBpxZn/view?usp=sharing)
 
 ## Installation Steps
 
