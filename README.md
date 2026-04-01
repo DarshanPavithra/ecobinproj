@@ -26,7 +26,7 @@ Beyond simple classification, ECO BIN features a point-based reward system and a
 The core intelligence of ECO BIN is powered by the Google Cloud Vision API. When a user submits an image, the application sends the data to Google’s vision models, which return highly accurate descriptive labels for the object. We then use a custom routing algorithm to map these labels against categorized keyword sets to determine the specific waste bin required. This allows for robust detection of everything from organic food waste to complex electronics without needing a locally trained model.
 
 ## Proof of Google AI Usage
-Attach screenshots in a `/proof` folder:
+![Proof Image 3](proof/3.jpg)
 
 ### Screenshots
 ![Proof Image 1](proof/1.jpg)
